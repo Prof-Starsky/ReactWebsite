@@ -1,0 +1,12 @@
+  .main-content {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  aside {
+    width: 500px;
+    overflow-y: auto;
+    border-right: 1px solid #ddd;
+    height: 100%;
+  }
